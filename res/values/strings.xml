@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CPM-Week-2</string>
+
+    <string-array name="filter_options">
+        <item>All</item>
+        <item>Genre: Literature</item>
+        <item>Genre: Music</item>
+        <item>Genre: Natural Sciences</item>
+        <item>Paid</item>
+        <item>Free</item>
+    </string-array>
+</resources>
